@@ -37,6 +37,6 @@ while True:
         puntos_persona +=1
         print(f'Has ganado!! ):, veces ganada: {puntos_persona}')
     else:
-        print('Ha ocurrido un error, al parecer ingresaste algo incorrecto')
+        print('Ha ocurrido un error, al parecer ingresaste una opcion incorrecta')
         
 
